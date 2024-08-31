@@ -23,7 +23,7 @@
     font-size: 36px;
     margin-top: 20px;
     margin-bottom: 10px;
-    color: rgb(72, 161, 217);
+    color: rgb(3, 158, 255);
 }
 
 .box-element h6 {
@@ -34,7 +34,7 @@
 
 
 .box-element2{
-    background-color: rgb(72, 161, 217);
+    background-color: rgb(3, 158, 255);
     padding: 5px;
     border-radius: 15px;
     text-align: center;
@@ -80,7 +80,7 @@
 }
 
 .box-element3{
-    background-color: rgb(72, 161, 217);
+    background-color: rgb(3, 158, 255);
     padding: 5px;
     border-radius: 15px;
     text-align: center;
