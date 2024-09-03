@@ -3,7 +3,7 @@ def mostrar_lista(opcao):
         1: "Andrey Baitolão",
         2: "Otavio GAYZAO",
         3: "Lucas VIADÃO",
-        4: "Jose PUTAO"
+        4: "Nicolas PUTAO"
     }
     
     return lista.get(opcao, "Opção inválida")
