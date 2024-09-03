@@ -3,7 +3,8 @@ def mostrar_lista(opcao):
         1: "Andrey Baitolão",
         2: "Otavio GAYZAO",
         3: "Lucas VIADÃO",
-        4: "Nicolas PUTAO"
+        4: "Jose PUTAO",
+        5: "Nicolas FODAO"
     }
     
     return lista.get(opcao, "Opção inválida")
@@ -15,6 +16,7 @@ def menu():
         print("2. Otavio")
         print("3. Lucas")
         print("4. Jose")
+        print("5. Nicolas")
         print("0. Sair")
         
         try:
